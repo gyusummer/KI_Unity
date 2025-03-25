@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Animations;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class PlayerCharacter : MonoBehaviour
 {
@@ -12,7 +13,10 @@ public class PlayerCharacter : MonoBehaviour
     private Animator animator;
     public RuntimeAnimatorController anotherAnimatorController;
 
-    public float Speed;
+
+    public float baseSpeed;
+    public float runMultiplier = 2;
+    private float targetSpeed;
     private void Start()
     {
         animator = GetComponent<Animator>();
@@ -20,7 +24,7 @@ public class PlayerCharacter : MonoBehaviour
 
     private void Update()
     {
-        LerpInput();
+        PreProInput();
         Move();
 
         if (Input.GetKeyDown(KeyCode.RightControl))
@@ -57,12 +61,22 @@ public class PlayerCharacter : MonoBehaviour
     }
 
     [Range(0, 1)]
-    public float inputLerpT;
-    private void LerpInput()
+    public float inputLerpT = 0.1f;
+    private void PreProInput()
     {
-        Vector2 rawInput = new Vector2(Input.GetAxisRaw("Horizontal"),Input.GetAxisRaw("Vertical"));
         Vector2 curMove = new Vector2(animator.GetFloat(MOVE_X), animator.GetFloat(MOVE_Z));
-        moveInput = Vector2.Lerp(curMove, rawInput, inputLerpT);
+        Vector2 rawInput = new Vector2(Input.GetAxisRaw("Horizontal"),Input.GetAxisRaw("Vertical"));
+        Vector2 targetMove = rawInput.normalized;
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            targetMove *= 2;
+            targetSpeed = baseSpeed * runMultiplier;
+        }
+        else
+        {
+            targetSpeed = baseSpeed;
+        }
+        moveInput = Vector2.Lerp(curMove, targetMove, inputLerpT);
     }
 
     private Vector2 moveInput;
@@ -71,6 +85,6 @@ public class PlayerCharacter : MonoBehaviour
         animator.SetFloat(MOVE_X, moveInput.x);
         animator.SetFloat(MOVE_Z, moveInput.y);
         
-        transform.Translate(new Vector3(moveInput.x, 0, moveInput.y) * ((Speed * Time.deltaTime)));
+        transform.Translate(new Vector3(moveInput.x, 0, moveInput.y) * (targetSpeed * Time.deltaTime));
     }
 }
