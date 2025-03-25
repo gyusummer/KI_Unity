@@ -17,13 +17,15 @@ public class BossMonster : MonoBehaviour, IClickable
     
     public ParticleSystem breathParticle;
 
-    private int curHp = 10;
-    public int damageThreshold = 2;
+    public int MaxHp { get; private set; } = 10;
+    public int CurHp { get; private set; }
+    [SerializeField] private int damageThreshold = 2;
     private int damageStack = 0;
 
     private void Start()
     {
         animator = GetComponent<Animator>();
+        CurHp = MaxHp;
     }
 
     private void Update()
@@ -64,10 +66,10 @@ public class BossMonster : MonoBehaviour, IClickable
 
     private void GetDamage()
     {
-        if (curHp <= 0) return;
-        curHp -= 1;
+        if (CurHp <= 0) return;
+        CurHp -= 1;
         damageStack++;
-        if (curHp <= 0)
+        if (CurHp <= 0)
         {
             animator.SetTrigger(DEAD);
         }

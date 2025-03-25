@@ -7,18 +7,24 @@ public class Controller : MonoBehaviour
 {
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        bool leftClick = Input.GetMouseButtonDown(0);
+        bool rightClick = Input.GetMouseButtonDown(1);
+        if (leftClick || rightClick)
         {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            RaycastHit hit;
-            // int layerMask = (-1) - (1 << LayerMask.NameToLayer("Skill"));
-            // Physics.Raycast(ray, out hit, Mathf.Infinity, layerMask);
-            Physics.Raycast(ray, out hit);
+            Physics.Raycast(ray, out RaycastHit hit);
             if (!hit.collider) return;
-            if (hit.collider.transform.root.TryGetComponent(out IClickable chara))
+
+            IClickable target = null;
+            if (leftClick && hit.collider.CompareTag("Monster"))
             {
-                chara.OnClick();
+                hit.collider.transform.root.TryGetComponent(out target);
             }
+            if (rightClick && hit.collider.CompareTag("Player"))
+            {
+                hit.collider.transform.TryGetComponent(out target);
+            }
+            target?.OnClick();
         }
     }
 }
