@@ -58,3 +58,28 @@ public class Dummy : MonoBehaviour, IClickable
         CurrentHp = maxHp;
     }
 }
+
+
+public class Dum : MonoBehaviour
+{
+    public static Dum FindDum(Collider coll)
+    {
+        for (int i = 0; i < currentSceneDums.Count; i++)
+        {
+            Dum dum = currentSceneDums[i];
+            if (dum.collider == coll)
+            {
+                return dum;
+            }
+        }
+        return null;
+    }
+    private static List<Dum> currentSceneDums = new List<Dum>();
+    
+    private Collider collider;
+    private void Start()
+    {
+        collider = GetComponent<Collider>();
+        currentSceneDums.Add(this);
+    }
+}
