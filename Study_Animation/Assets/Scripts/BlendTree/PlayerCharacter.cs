@@ -1,11 +1,9 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
-using UnityEditor.Animations;
+using Mine;
 using UnityEngine;
-using UnityEngine.Serialization;
-using Object = System.Object;
+using Input = UnityEngine.Input;
 
 public class PlayerCharacter : MonoBehaviour
 {
@@ -24,7 +22,7 @@ public class PlayerCharacter : MonoBehaviour
     public GameObject twoHandSword;
     
     private Vector2 moveInput;
-    private bool inputAttack;
+    private bool attackInput;
 
     public float baseSpeed;
     public float runMultiplier = 2;
@@ -33,6 +31,8 @@ public class PlayerCharacter : MonoBehaviour
     private void Start()
     {
         animator = GetComponent<Animator>();
+        PlayerState.player = this;
+        PlayerState.animator = animator;
     }
 
     private void Update()
@@ -41,8 +41,8 @@ public class PlayerCharacter : MonoBehaviour
         isInTransition = animator.IsInTransition(0);
         PreProMoveInput();
         Move();
-        inputAttack = Input.GetKeyDown(KeyCode.Mouse0);
-        if (inputAttack && !isInTransition)
+        attackInput = Input.GetKeyDown(KeyCode.Mouse0);
+        if (attackInput && !isInTransition)
         {
             Attack();
         }
@@ -79,7 +79,7 @@ public class PlayerCharacter : MonoBehaviour
         bool isAttack3 = currentStateInfo.IsName("Attack-3");
         bool isAttacking = isAttack1 || isAttack2 || isAttack3;
 
-        if (inputAttack && isAttack3 == false)
+        if (attackInput && isAttack3 == false)
         {
             float normalizedTime = currentStateInfo.normalizedTime;
             if (isAttacking == false)
