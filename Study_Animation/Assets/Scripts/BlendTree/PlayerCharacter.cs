@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Mine;
 using UnityEngine;
+using UnityEngine.Serialization;
 using Input = UnityEngine.Input;
 
 public class PlayerCharacter : MonoBehaviour
@@ -20,17 +21,48 @@ public class PlayerCharacter : MonoBehaviour
     public RuntimeAnimatorController unarmedAnimatorController;
     public RuntimeAnimatorController twoHandSwordAnimatorController;
     public GameObject twoHandSword;
-    
+    public Equipment unarmed;
+    public Equipment secondWeapon;
+    public Equipment currentWeapon;
+    [Header("Animation")]
     private Vector2 moveInput;
     private bool attackInput;
-
+    [Header("Movement")]
     public float baseSpeed;
     public float runMultiplier = 2;
     private float targetSpeed;
+    
+    
 
+    private void SwitchWeapon(Equipment equipment)
+    {
+        currentWeapon = equipment;
+    }
+    private void OnAnimatorIK(int layerIndex)
+    {
+        
+        Transform rightHandTarget = currentWeapon.rightHandTarget;
+        Transform leftHandTarget = currentWeapon.leftHandTarget;
+        float ikWeight = currentWeapon.IKWeight;
+        
+        UpdateIK(AvatarIKGoal.LeftHand, leftHandTarget, ikWeight);
+        UpdateIK(AvatarIKGoal.RightHand, rightHandTarget, ikWeight);
+
+        void UpdateIK(AvatarIKGoal goal, Transform target, float ikWeight)
+        {
+            animator.SetIKRotation(goal, target.rotation);
+            animator.SetIKRotationWeight(goal, ikWeight);
+        
+            animator.SetIKPosition(goal, target.position);
+            animator.SetIKPositionWeight(goal, ikWeight);
+        }
+    }
+    
     private void Start()
     {
         animator = GetComponent<Animator>();
+        SwitchWeapon(secondWeapon);
+        
         PlayerState.player = this;
         PlayerState.animator = animator;
     }

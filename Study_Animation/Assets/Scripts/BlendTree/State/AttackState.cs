@@ -7,7 +7,18 @@ namespace Mine
     public class AttackState : PlayerState
     {
         private int combo = 0;
-        private void Combo()
+        
+        public override void Enter()
+        {
+            // 구독
+        }
+
+        public override void Exit()
+        {
+            // 구독 취소
+        }
+        
+        private void Attack()
         {
             combo++;
             if (combo < 3)
@@ -20,5 +31,4 @@ namespace Mine
             }
         }
     }
-
 }

@@ -60,6 +60,15 @@ namespace Mine
     
             player.transform.Translate(new Vector3(moveInput.x, 0, moveInput.y) * (targetSpeed * Time.deltaTime));
         }
+
+        public override void Enter()
+        {
+            
+        }
+
+        public override void Exit()
+        {
+        }
     }
 }
 

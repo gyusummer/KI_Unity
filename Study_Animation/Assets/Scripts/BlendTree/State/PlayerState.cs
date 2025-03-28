@@ -13,6 +13,9 @@ namespace Mine
         protected static readonly int LOCOMOTION = Animator.StringToHash("Locomotion");
         public static PlayerCharacter player;
         public static Animator animator;
+
+        public abstract void Enter();
+        public abstract void Exit();
     }
 }
 
