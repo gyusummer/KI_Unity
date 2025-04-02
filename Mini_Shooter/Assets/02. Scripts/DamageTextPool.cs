@@ -57,6 +57,11 @@ public class DamageTextPool : MonoBehaviour
     private void Start()
     {
         CombatSystem.Instance.Events.OnCombatEvent += ShowDamage;
+        for (int i = 0; i < 10; i++)
+        {
+            // Pool.Get();
+            Pool.Release(CreateDamageText());
+        }
     }
     private void OnDestroy()
     {

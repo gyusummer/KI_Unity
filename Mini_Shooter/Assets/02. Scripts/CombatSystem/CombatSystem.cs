@@ -38,13 +38,13 @@ public class CombatSystem : MonoBehaviour
         }
     }
 
-    public void RegisterMonster(IDamageAble monster)
-    {
-        if (monsterDic.TryAdd(monster.MainCollider, monster) == true) return;
-        Debug.LogWarning($"{monster.GameObject.name} is already registered" +
-                         $"{monsterDic[monster.MainCollider]} will be overwritten");
-        monsterDic[monster.MainCollider] = monster;
-    }
+    // public void RegisterMonster(IDamageAble monster)
+    // {
+    //     if (monsterDic.TryAdd(monster.MainCollider, monster) == true) return;
+    //     Debug.LogWarning($"{monster.GameObject.name} is already registered" +
+    //                      $"{monsterDic[monster.MainCollider]} will be overwritten");
+    //     monsterDic[monster.MainCollider] = monster;
+    // }
 
     public IDamageAble GetMonsterOrNull(Collider collider)
     {
@@ -58,5 +58,13 @@ public class CombatSystem : MonoBehaviour
     public void AddCombatEvent(CombatEvent combatEvent)
     {
         combatEventQueue.Enqueue(combatEvent);
+    }
+    
+    public void RegisterMonster(Collider collider, IDamageAble monster)
+    {
+        if (monsterDic.TryAdd(collider, monster) == true) return;
+        Debug.LogWarning($"{monster.GameObject.name} is already registered" +
+                         $"{monsterDic[collider]} will be overwritten");
+        monsterDic[collider] = monster;
     }
 }

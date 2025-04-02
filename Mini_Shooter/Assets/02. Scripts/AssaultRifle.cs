@@ -12,6 +12,7 @@ public class AssaultRifle : MonoBehaviour
     [Header("Visual")]
     public GameObject MuzzleFlash;
     public float muzzleFlashDuration = 0.1f;
+    public Transform Ejector;
     
     public int currentAmmo { get; private set; }
     public float currentFireRate { get; private set; }
@@ -47,6 +48,10 @@ public class AssaultRifle : MonoBehaviour
 
         MuzzleFlash.transform.localRotation *= Quaternion.AngleAxis(Random.Range(0, 360), Vector3.right);
         MuzzleFlash.SetActive(true);
+        var shell = ObjectPoolManager.Instance.GetObjectPoolOrNull("BulletShell");
+        shell.GameObject.transform.position = Ejector.position;
+        shell.GameObject.transform.right = -Ejector.right;
+        shell.GameObject.SetActive(true);
         
         Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
         if (Physics.Raycast(ray, out RaycastHit hit, data.range, LayerMask.GetMask("Enemy")))
@@ -55,10 +60,13 @@ public class AssaultRifle : MonoBehaviour
             if (monster != null)
             {
                 CombatEvent combatEvent = new CombatEvent();
+                
                 combatEvent.Sender = Player.LocalPlayer;
                 combatEvent.Receiver = monster;
                 combatEvent.Damage = data.damage;
                 combatEvent.HitPosition = hit.point;
+                combatEvent.Collider = hit.collider;
+                
                 CombatSystem.Instance.AddCombatEvent(combatEvent);
             }
         }

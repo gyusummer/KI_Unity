@@ -8,4 +8,5 @@ public interface IDamageAble
     public GameObject GameObject { get; }
     
     public void TakeDamage(CombatEvent combatEvent);
+    public float HowPainful(Collider collider);
 }

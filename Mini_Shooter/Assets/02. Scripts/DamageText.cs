@@ -13,7 +13,7 @@ public class DamageText : MonoBehaviour
     private RectTransform canvas;
     private Camera mainCamera;
 
-    private void Start()
+    private void Awake()
     {
         text = GetComponent<TMP_Text>();
         mainCamera = Camera.main;
@@ -28,6 +28,7 @@ public class DamageText : MonoBehaviour
         Vector2 v2 = mainCamera.WorldToScreenPoint(position);
         RectTransformUtility.ScreenPointToWorldPointInRectangle(canvas, v2, mainCamera, out Vector3 v3);
         transform.localPosition = v3;
+        // transform.position = position;
     }
 
     private void Update()

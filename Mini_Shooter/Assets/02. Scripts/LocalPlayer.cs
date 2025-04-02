@@ -17,4 +17,9 @@ public class LocalPlayer : Player, IDamageAble
     {
         
     }
+
+    public float HowPainful(Collider collider)
+    {
+        return 0;
+    }
 }
