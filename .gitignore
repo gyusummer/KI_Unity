@@ -72,3 +72,1812 @@
 # Temporary auto-generated Android Assets
 */[Aa]ssets/[Ss]treamingAssets/aa.meta
 */[Aa]ssets/[Ss]treamingAssets/aa/*
+Mini_Shooter/Assets/00. External Assets/FORGE3D.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor/F3DHelpMenu.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor/F3DHelpMenu.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor/F3DReadme.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor/F3DReadme.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor/F3DReadmeEditor.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor/F3DReadmeEditor.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor/IconImage_160x160.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/HelpMenu/Editor/IconImage_160x160.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/Editor.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/Editor/F3DPoolManagerEditor.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/Editor/F3DPoolManagerEditor.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/F3DPool.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/F3DPool.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/F3DPoolContainer.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/F3DPoolContainer.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/F3DPoolManager.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/F3DPoolManager.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/F3DPoolManagerDB.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/PoolManager/F3DPoolManagerDB.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/F3DPoolManagerCache.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/F3DPoolManagerCache/GeneratedDataBase.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/F3DPoolManagerCache/GeneratedDataBase.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/F3DPoolManagerCache/MissleDatabase.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/F3DPoolManagerCache/MissleDatabase.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/F3DPoolManagerCache/WeaponRange.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/F3DPoolManagerCache/WeaponRange.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Burnout.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Burnout.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Debris Field.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Debris Field.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Effects.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Effects.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Holographic.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Holographic.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Missiles.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Missiles.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Nebulas.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Nebulas.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Turrets.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/Turrets.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/WarpJump.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/WarpJump.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/WarpTunnel.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Resources/URPVolumes/WarpTunnel.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Burnout.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Burnout.unity.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DAudioController.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DAudioController.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DBeam.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DBeam.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DCurvedBeam.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DCurvedBeam.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DDespawn.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DDespawn.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DFlameThrower.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DFlameThrower.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DFXController.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DFXController.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DLightning.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DLightning.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DMissile.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DMissile.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DPredictTrajectory.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DPredictTrajectory.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DProjectile.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DProjectile.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DPulsewave.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DPulsewave.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DRandomize.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DRandomize.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DRift.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DRift.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DShotgun.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DShotgun.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DTime.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DTime.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DWarpJump.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DWarpJump.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DWarpJumpTunnel.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DWarpJumpTunnel.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DWarpTunnel.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/F3DWarpTunnel.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Lib.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Lib/F3DMath.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Lib/F3DMath.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/MeshCombine.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/MeshCombine/CombineChildren.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/MeshCombine/CombineChildren.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/MeshCombine/MeshCombineUtility.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/MeshCombine/MeshCombineUtility.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Player.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Player/F3DPlayerController_Legacy.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Player/F3DPlayerController_Legacy.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Player/F3DPlayerTurretController.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Player/F3DPlayerTurretController.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/Editor.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/Editor/F3DTurretConstructorEditor.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/Editor/F3DTurretConstructorEditor.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/Editor/F3DTurretEditorWindow.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/Editor/F3DTurretEditorWindow.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/F3DTurretConstructor.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/F3DTurretConstructor.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/F3DTurretScriptable.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Constructor/F3DTurretScriptable.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Editor.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Editor/F3DTurretEditor.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Editor/F3DTurretEditor.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Editor/F3DTurretHandles.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/Editor/F3DTurretHandles.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/F3DTurret.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/F3DTurret.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/F3DTurretUI.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Code/Turrets/F3DTurretUI.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Debris Field.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Debris Field.unity.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects.unity.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials/Burnout_Heat_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials/Burnout_Heat_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials/Burnout_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials/Burnout_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials/Burnout_linear_Amplify.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials/Burnout_linear_Amplify.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials/Burnout_Sparks.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Materials/Burnout_Sparks.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_damage.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_damage.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_emission.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_emission.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_loop.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_loop.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_mask.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_mask.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_opacity.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Burnout/Textures/burnout_opacity.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/debris_junk.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/debris_junk.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/debris_rock.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/debris_rock.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials/debris_junk 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials/debris_junk 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials/debris_junk.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials/debris_junk.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials/debris_rock 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials/debris_rock 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials/debris_rock.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Materials/debris_rock.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Meshes.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Meshes/debris_junk.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Meshes/debris_junk.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Meshes/debris_rock.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Meshes/debris_rock.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Meshes/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Meshes/Materials/scene root.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Meshes/Materials/scene root.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_junk.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_junk.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_junk_norm.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_junk_norm.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_junk_spec.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_junk_spec.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_rock.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_rock.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_rock_norm.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Debris/Textures/debris_rock_norm.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_003.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_003.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_004.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_004.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_005.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_005.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_006.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_006.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_007.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Explosion_007.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Fire_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Fire_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Debris_01.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Debris_01.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Debris_02.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Debris_02.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Debris_03.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Debris_03.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Debris_04.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Debris_04.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flames_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flames_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flames_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flames_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flames_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flames_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flare_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flare_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flare_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flare_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flare_FlameTail_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flare_FlameTail_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flare_FlameTail_Sparks_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Flare_FlameTail_Sparks_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Halo.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Halo.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Halo_Glow.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Halo_Glow.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Plasma_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Plasma_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Sparks_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Sparks_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Sparks_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Sparks_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Sparks_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Explosion_Sparks_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Fire_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Fire_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Fire_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Fire_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Fire_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Fire_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Fire_Spark.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Fire_Spark.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Hit.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Hit.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Hit_Sparks.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Hull_Hit_Sparks.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Shock_Ring.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Materials/Shock_Ring.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Debris_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Debris_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Debris_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Debris_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Explosion_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Explosion_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Explosion_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Explosion_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Explosion_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Explosion_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Explosion_004.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Explosion_004.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Fire_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Fire_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Fire_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Fire_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Fire_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Fire_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Flare_Glow_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/Flare_Glow_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/particle_01.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/particle_01.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/particle_02.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/particle_02.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/shock_noise_001.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/shock_noise_001.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/spark_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Explosions/Textures/spark_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_flame_blue.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_flame_blue.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_flame_green.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_flame_green.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_flame_red.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_flame_red.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_impact_blue.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_impact_blue.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_impact_green.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_impact_green.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_impact_red.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/flames_impact_red.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_flame_blue.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_flame_blue.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_flame_green.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_flame_green.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_flame_red.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_flame_red.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_impact_blue.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_impact_blue.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_impact_green.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_impact_green.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_impact_red.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_impact_red.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_muzzle_blue.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_muzzle_blue.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_muzzle_green.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_muzzle_green.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_muzzle_red.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_muzzle_red.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_spark_blue.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_spark_blue.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_spark_green.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_spark_green.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_spark_red.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Materials/flames_spark_red.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_blue_sprites.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_blue_sprites.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_004.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_004.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_005.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_005.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_006.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_006.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_007.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_fire_frames_007.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_flash_blue.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_flash_blue.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_flash_green.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_flash_green.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_flash_red.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_flash_red.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_green_sprites.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_green_sprites.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_impact_blue.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_impact_blue.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_impact_green.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_impact_green.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_impact_red.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_impact_red.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_red_sprites.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Flames/Textures/flames_red_sprites.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Heat.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Heat.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Heat.vfx
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Heat.vfx.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatExplosion.vfx
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatExplosion.vfx.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatExplosionOneShot.vfx
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatExplosionOneShot.vfx.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatFlames.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatFlames.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatFlames.vfx
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatFlames.vfx.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatGraph.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatGraph.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatWave_01.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/HeatWave_01.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Engine_Heat_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Engine_Heat_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Explosions_Heat_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Explosions_Heat_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Explosions_Heat_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Explosions_Heat_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Flame_Heat_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Flame_Heat_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Flame_Heat_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Materials/Flame_Heat_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_004.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_004.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_005.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/Textures/heat_005.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/WarpTunnel.vfx
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/WarpTunnel.vfx.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/WarpTunnelQuad.vfx
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Heat/WarpTunnelQuad.vfx.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Blue.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Blue.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Blue_Amplify.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Blue_Amplify.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Green.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Green.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Green_Amplify.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Green_Amplify.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Red.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Red.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Red_Amplify.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Material/Holographic_Red_Amplify.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Textures/Holo_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Holographic/Textures/Holo_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_flare_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_flare_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_flare_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_flare_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_flare_003.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_flare_003.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_muzzle_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_muzzle_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_muzzle_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_muzzle_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_muzzle_003.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_muzzle_003.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_projectile_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_projectile_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_projectile_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/laser_impulse_projectile_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_004.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_004.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_005.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_005.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_006.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_006.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_007.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_flare_007.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_muzzle_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_muzzle_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_muzzle_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_muzzle_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_muzzle_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_muzzle_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_projectile_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_projectile_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_projectile_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_projectile_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_spark_bolt.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_spark_bolt.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_star.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_star.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_wave.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Materials/laser_impulse_wave.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_001.psd
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_001.psd.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_flare_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_flare_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_004.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_004.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_005.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_005.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_black.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_black.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_bolts_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_bolts_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_ring_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_ring_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_star_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_impact_star_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_light_muzzle_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_light_muzzle_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_light_muzzle_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_light_muzzle_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_medium_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_medium_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_medium_muzzle_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_medium_muzzle_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_medium_muzzle_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_medium_muzzle_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_muzzle_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_muzzle_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_muzzle_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_muzzle_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_particle_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/laser_impulse_particle_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_impact_bolts_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_impact_bolts_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_impact_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_impact_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_impact_ring_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_impact_ring_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_impact_star_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_impact_star_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_light_muzzle_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_light_muzzle_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_light_muzzle_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Laser Impulse/Textures/Red/laser_impulse_light_muzzle_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/lightning_gun_beam.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/lightning_gun_beam.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_beam_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_beam_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_beam_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_beam_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_flare.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_flare.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_impact.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_impact.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_muzzle.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_muzzle.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_ring.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_ring.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_spark_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_spark_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_spark_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Materials/lightning_gun_spark_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_beam.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_beam.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_004.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_004.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_005.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_005.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_006.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_006.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_007.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_007.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_008.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_bolt_008.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_flare_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Lightning Gun/Textures/lightning_gun_flare_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Example.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Example/missile_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Example/missile_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_001_PBR.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_001_PBR.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_002_PBR.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_002_PBR.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_003_PBR.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_003_PBR.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_004_PBR.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_004_PBR.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_005_PBR.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_005_PBR.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_006_PBR.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_006_PBR.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_007_PBR.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_007_PBR.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_008_PBR.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_008_PBR.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_flame.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_flame.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_smoke.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Materials/missile_smoke.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_001_lod0.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_001_lod0.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_001_lod1.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_001_lod1.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_002_lod0.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_002_lod0.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_002_lod1.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_002_lod1.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_003_lod0.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_003_lod0.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_003_lod1.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_003_lod1.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_004_lod0.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_004_lod0.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_004_lod1.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_004_lod1.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_005_lod0.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_005_lod0.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_005_lod1.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_005_lod1.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_006_lod0.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_006_lod0.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_006_lod1.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_006_lod1.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_007_lod0.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_007_lod0.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_007_lod1.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_007_lod1.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_008_lod0.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_008_lod0.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_008_lod1.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Meshes/missile_008_lod1.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_001_PBR.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_001_PBR.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_002_PBR.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_002_PBR.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_003.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_003.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_003_PBR.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_003_PBR.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_004.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_004.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_004_PBR.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_004_PBR.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_005.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_005.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_005_PBR.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_005_PBR.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_006.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_006.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_006_PBR.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_006_PBR.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_007.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_007.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_007_PBR.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_007_PBR.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_008.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_008.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_008_PBR.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_008_PBR.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_01.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_01.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_02.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_02.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_03.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_03.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_04.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_04.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_05.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_05.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_06.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_06.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_07.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_07.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_08.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/missile_08.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/MissileFlame.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/MissileFlame.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/MissileSmokeTrail.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/MissileSmokeTrail.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_001_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_001_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_001_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_001_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_001_normal.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_001_normal.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_002_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_002_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_002_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_002_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_002_normal.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_002_normal.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_003_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_003_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_003_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_003_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_003_normal.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_003_normal.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_004_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_004_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_004_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_004_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_004_normal.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_004_normal.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_005_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_005_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_005_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_005_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_005_normal.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_005_normal.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_006_007_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_006_007_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_006_007_normal.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_006_007_normal.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_006_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_006_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_007_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_007_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_008_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_008_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_008_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_008_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_008_normal.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Missiles/Textures/missile_008_normal.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/FlyTrough.anim
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/FlyTrough.anim.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/FlyTroughStars.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/FlyTroughStars.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/FlyTroughStars.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/FlyTroughStars.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Blue_001 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Blue_001 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Blue_002 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Blue_002 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Blue_003 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Blue_003 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Dust 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Dust 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Pink_001 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Pink_001 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Red_001 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Red_001 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Red_002 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Amp/Nebula_Red_002 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Blue_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Blue_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Blue_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Blue_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Blue_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Blue_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Dust.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Dust.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Pink_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Pink_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Red_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Red_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Red_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Nebula_Red_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Planet_Blue.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Planet_Blue.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Planet_Red.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Materials/Planet_Red.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/NebulaBoard.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/NebulaBoard.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/NebulaFlyTroughCamera.controller
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/NebulaFlyTroughCamera.controller.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Nebulas.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Nebulas.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_blue_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_blue_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_blue_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_blue_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_dust.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_dust.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_pink_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_pink_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_red_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_red_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_red_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Prefabs/Nebula_red_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_blue_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_blue_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_blue_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_blue_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_blue_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_blue_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_pink_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_pink_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_red_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_red_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_red_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Nebula/Textures/nebula_red_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_blue.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_blue.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_blue_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_blue_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_blue_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_blue_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_green_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_green_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_green_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_green_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_red_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_red_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_red_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_flare_red_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_green.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_green.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_heavy_blue.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_heavy_blue.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_heavy_green.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_heavy_green.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_heavy_red.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_heavy_red.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_red.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Materials/plasma_beam_red.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_blue.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_blue.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_flare_blue.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_flare_blue.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_flare_green.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_flare_green.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_flare_red.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_flare_red.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_green.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_green.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_heavy_blue.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_heavy_blue.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_heavy_green.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_heavy_green.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_heavy_red.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_heavy_red.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_muzzle_blue.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_muzzle_blue.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_muzzle_green.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_muzzle_green.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_muzzle_red.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_muzzle_red.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_red.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/plasma_beam_red.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_flare_green.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_flare_green.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_flare_red.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_flare_red.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_heavy_blue.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_heavy_blue.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_heavy_green.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_heavy_green.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_heavy_red.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_heavy_red.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_hit_blue.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_hit_blue.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_hit_green.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_hit_green.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_hit_red.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_hit_red.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_stream_blue.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_stream_blue.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_stream_green.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_stream_green.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_stream_red.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beam_stream_red.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beamflare_blue.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Beam/Textures/plasma_beamflare_blue.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_bolt.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_bolt.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flames_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flames_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flames_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flames_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flames_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flames_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flare_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flare_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flare_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_flare_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_trail_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_trail_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_trail_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Materials/plasma_gun_trail_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_bolt.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_bolt.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_flare.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_flare.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_muzzle_flash.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_muzzle_flash.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_projectile_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_projectile_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_projectile_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/plasma_gun_projectile_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_bolt_01.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_bolt_01.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flames_01.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flames_01.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flames_02.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flames_02.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flames_03.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flames_03.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flare_01.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flare_01.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flare_02.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_flare_02.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_trail_01.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_trail_01.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_trail_02.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Plasma Gun/Textures/plasma_gun_trail_02.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_004.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_004.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_005.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Materials/pulsewave_005.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_003.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_003.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_004.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_004.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_005.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/pulsewave_005.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Textures/pulsewave_01.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Textures/pulsewave_01.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Textures/pulsewave_02.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Pulsewave/Textures/pulsewave_02.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_beam.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_beam.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_flare_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_flare_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_flare_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_flare_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_flare_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_flare_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_spark.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_spark.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_wave.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Materials/railgun_wave.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/railgun_beam.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/railgun_beam.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/railgun_flare_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/railgun_flare_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/railgun_flare_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/railgun_flare_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/railgun_flare_003.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/railgun_flare_003.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_004.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_004.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_005.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_005.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_006.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_beam_006.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_flare_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_flare_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_flare_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_flare_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_spark.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_spark.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_wave.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Rail Gun/Textures/railgun_wave.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_explosion_01.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_explosion_01.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_explosion_02.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_explosion_02.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_flare.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_flare.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_fragment.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_fragment.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_heat.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_heat.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_muzzle.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_muzzle.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_smoke_01.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_smoke_01.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_smoke_02.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_smoke_02.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_sparks.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_sparks.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_sparks_01.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_sparks_01.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_sparks_02.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Materials/seeker_bolt_sparks_02.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/seeker_bolt_flare.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/seeker_bolt_flare.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/seeker_bolt_hit.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/seeker_bolt_hit.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/seeker_bolt_muzzle.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/seeker_bolt_muzzle.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Textures/seeker_bolt_flare.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Textures/seeker_bolt_flare.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Textures/seeker_bolt_muzzle.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Seeker Bolt/Textures/seeker_bolt_muzzle.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_flare_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_flare_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_flare_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_flare_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_fragment_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_fragment_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_fragment_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_fragment_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_smoke.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_smoke.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_spark.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Materials/shot_gun_spark.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/shot_gun_flare.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/shot_gun_flare.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/shot_gun_fragment.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/shot_gun_fragment.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_flare_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_flare_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_flare_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_flare_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_fragment_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_fragment_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_fragment_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_fragment_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_smoke.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_smoke.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_spark.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Shot Gun/Textures/shot_gun_spark.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials/sniper_beam.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials/sniper_beam.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials/sniper_flare.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials/sniper_flare.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials/sniper_smoke.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials/sniper_smoke.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials/sniper_spark.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Materials/sniper_spark.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/sniper_beam.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/sniper_beam.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/sniper_flare.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/sniper_flare.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_004.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_004.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_005.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_005.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_006.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_beam_006.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_flare.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_flare.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_smoke.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_smoke.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_spark.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Sniper/Textures/sniper_spark.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flames_01.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flames_01.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flames_02.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flames_02.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flare_01.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flare_01.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flare_02.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flare_02.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flare_03.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_flare_03.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_muzzle.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_muzzle.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_smoke.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_smoke.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_sparks.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_sparks.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_trail.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Materials/solo_gun_trail.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/solo_gun_flames.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/solo_gun_flames.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/solo_gun_flare_trail.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/solo_gun_flare_trail.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/solo_gun_muzzle.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/solo_gun_muzzle.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/Debris_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/Debris_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flames_01.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flames_01.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flames_02.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flames_02.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flare_01.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flare_01.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flare_02.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flare_02.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flare_03.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_flare_03.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_muzzle.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_muzzle.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_smoke.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_smoke.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_sparks.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_sparks.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_trail.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Solo Gun/Textures/solo_gun_trail.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials/trail_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials/trail_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials/trail_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials/trail_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials/trail_003.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials/trail_003.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials/trail_004.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Materials/trail_004.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures/trail_001.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures/trail_001.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures/trail_002.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures/trail_002.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures/trail_003.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures/trail_003.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures/trail_004.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/Textures/trail_004.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_001.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_001.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_002.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_002.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_003.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_003.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_004.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_004.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_005.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_005.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_006.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_006.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_007.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_007.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_008.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_008.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_009.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_009.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_010.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_010.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_011.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_011.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_012.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_012.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_013.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_013.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_014.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_014.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_015.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_015.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_016.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_016.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_017.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_017.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_018.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_018.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_019.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_019.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_020.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Trails/trail_020.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_heavy_mpact.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_heavy_mpact.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_light_impact.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_light_impact.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_medium_impact.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_medium_impact.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_muzzle.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_muzzle.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_projectile.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_projectile.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_shell.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_shell.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_smoke.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_smoke.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_spark.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Materials/vulcan_spark.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_heavy_impact.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_heavy_impact.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_light_impact.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_light_impact.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_medium_impact.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_medium_impact.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_muzzle.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_muzzle.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_projectile.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_projectile.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_shell.psd
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_shell.psd.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_spark.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/Textures/vulcan_spark.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_impact.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_impact.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_muzzle.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_muzzle.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_projectile.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_projectile.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_shell.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_shell.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_spark.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Vulcan/vulcan_spark.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpAura_blue_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpAura_blue_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpAura_green_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpAura_green_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpAura_red_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpAura_red_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpDistortion.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpDistortion.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpParticles_blue_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpParticles_blue_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpParticles_green_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpParticles_green_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpParticles_red_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpParticles_red_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpRings_blue_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpRings_blue_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpRings_green_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpRings_green_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpRings_red_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpRings_red_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpSpark_blue_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpSpark_blue_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpSpark_green_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpSpark_green_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpSpark_red_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpSpark_red_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_001_blue_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_001_blue_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_001_green_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_001_green_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_001_red_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_001_red_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_002_blue_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_002_blue_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_002_green_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_002_green_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_002_red_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_002_red_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_003_blue_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_003_blue_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_003_green_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_003_green_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_003_red_linear.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Materials/WarpJumpTunnel_003_red_linear.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Models.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Models/warp_jump_cone.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Models/warp_jump_cone.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures/warpjump_aura.psd
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures/warpjump_aura.psd.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures/warpjump_ring.psd
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures/warpjump_ring.psd.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures/warpjump_spark.psd
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures/warpjump_spark.psd.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures/warpjump_tunnel.psd
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/Textures/warpjump_tunnel.psd.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpIn_blue_linear.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpIn_blue_linear.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpIn_green_linear.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpIn_green_linear.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpIn_red_linear.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpIn_red_linear.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpOut_blue_linear.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpOut_blue_linear.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpOut_green_linear.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpOut_green_linear.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpOut_red_linear.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Jump/WarpJumpOut_red_linear.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Blue.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Blue.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Blue_02.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Blue_02.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Blue_03.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Blue_03.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Dust.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Dust.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Pink.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Pink.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Red.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/Cluster_Red.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/ClusterEmitter.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Example/ClusterEmitter.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/Nebula_Blue_001 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/Nebula_Blue_001 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/Nebula_Blue_003 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/Nebula_Blue_003 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/StarsParticle 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/StarsParticle 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/StarsParticle.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/StarsParticle.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_001 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_001 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_002 1.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_002 1.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_002.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_002.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_distortion_001.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Materials/warp_tunnel_distortion_001.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures/star_bw.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures/star_bw.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures/warp_tunnel_color.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures/warp_tunnel_color.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures/warp_tunnel_mask.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures/warp_tunnel_mask.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures/warp_tunnel_normal.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Textures/warp_tunnel_normal.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Warp Tunnel.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/Warp Tunnel.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/WarpTunnel.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/WarpTunnel.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/WarpTunnelProfile.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Effects/Warp Tunnel/WarpTunnelProfile.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DBurnoutExample.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DBurnoutExample.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DDummyEvent.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DDummyEvent.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DMissileLauncher.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DMissileLauncher.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DNebula.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DNebula.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DTrailExample.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DTrailExample.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DTurnTable.cs
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Code/F3DTurnTable.cs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Materials/Turret.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Materials/Turret.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Meshes.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Meshes/turret.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Meshes/turret.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Textures/turret_color.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Textures/turret_color.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Textures/turret_glow.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Textures/turret_glow.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Textures/turret_norm.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/Textures/turret_norm.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/turret.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Legacy Turret/turret.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Materials/prototype_black_grid_cube.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Materials/prototype_black_grid_cube.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Materials/prototype_black_grid_floor.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Materials/prototype_black_grid_floor.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Materials/prototype_black_grid_sphere.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Materials/prototype_black_grid_sphere.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/Explosion_001_Example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/Explosion_001_Example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/Explosion_007_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/Explosion_007_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/flames_flame_red_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/flames_flame_red_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/laser_impulse_flare_001_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/laser_impulse_flare_001_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/laser_impulse_muzzle_001_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/laser_impulse_muzzle_001_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/laser_impulse_projectile_001_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/laser_impulse_projectile_001_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/lightning_gun_beam_001_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/lightning_gun_beam_001_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_beam_blue_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_beam_blue_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_beam_heavy_red_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_beam_heavy_red_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_gun_flare_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_gun_flare_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_gun_muzzle_flash_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_gun_muzzle_flash_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_gun_projectile_001_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/plasma_gun_projectile_001_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/railgun_beam_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/railgun_beam_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/railgun_flare_003_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/railgun_flare_003_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/seeker_bolt_flare_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/seeker_bolt_flare_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/seeker_bolt_hit_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/seeker_bolt_hit_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/seeker_bolt_muzzle_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/seeker_bolt_muzzle_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/shot_gun_flare_001_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/shot_gun_flare_001_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/shot_gun_fragment_001_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/shot_gun_fragment_001_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/sniper_beam_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/sniper_beam_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/sniper_flare_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/sniper_flare_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/solo_gun_flames_01_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/solo_gun_flames_01_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/solo_gun_flare_trail Variant.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/solo_gun_flare_trail Variant.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/solo_gun_flare_trail_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/solo_gun_flare_trail_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/solo_gun_muzzle_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/solo_gun_muzzle_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/vulcan_impact_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/vulcan_impact_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/vulcan_muzzle_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/vulcan_muzzle_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/vulcan_projectile_example.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Prefabs/vulcan_projectile_example.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene/DebrisCamera.controller
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene/DebrisCamera.controller.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene/DebrisCameraFlyTrough.anim
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene/DebrisCameraFlyTrough.anim.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene/Light Rig.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene/Light Rig.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene/Scene.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Scene/Scene.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/blank.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/blank.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/normal_blank.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/normal_blank.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/prototype_black_dff.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/prototype_black_dff.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/silver_blurred_cubemap.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/silver_blurred_cubemap.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/silver_sharp_cubemap.tga
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Examples/Textures/silver_sharp_cubemap.tga.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Holographic.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Holographic.unity.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Install.txt
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Install.txt.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/AudioSource.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/AudioSource.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Billboard_Quad.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Billboard_Quad.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/crate.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/crate.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Demo Physic Material.physicMaterial
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Demo Physic Material.physicMaterial.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Light Rig.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Light Rig.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Materials/prototype_black_dff.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Materials/prototype_black_dff.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Materials/target_sphere.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Materials/target_sphere.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/pulsewave_z_up.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/pulsewave_z_up.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Scene.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Scene.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Skybox.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Misc/Skybox.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Missiles.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Missiles.unity.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Nebula.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Nebula.unity.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Readme.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Readme.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Readme.txt
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Readme.txt.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sci-Fi Effects 2.3 HDRP 2022.3.22.unitypackage
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sci-Fi Effects 2.3 HDRP 2022.3.22.unitypackage.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sci-Fi Effects 2.3 Standard Renderer 2022.3.22f1.unitypackage
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sci-Fi Effects 2.3 Standard Renderer 2022.3.22f1.unitypackage.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sci-Fi Effects 2.3 URP 2022.3.22.unitypackage
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sci-Fi Effects 2.3 URP 2022.3.22.unitypackage.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Additive.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Additive.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/AlphaBlended.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/AlphaBlended.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Burnout.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Burnout.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Burnout.shadersubgraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Burnout.shadersubgraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Debris.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Debris.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/DepthFade.shadersubgraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/DepthFade.shadersubgraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/DistanceFade.shadersubgraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/DistanceFade.shadersubgraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Fresnel.shadersubgraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Fresnel.shadersubgraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/HeatDepthFixed.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/HeatDepthFixed.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Holographic.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Holographic.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Nebula.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/Nebula.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/WarpJump.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/WarpJump.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/WarpJumpTunnel.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/WarpJumpTunnel.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/WarpTunnel.shadergraph
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Shaders/WarpTunnel.shadergraph.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_flyby_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_flyby_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_flyby_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_flyby_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_flyby_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_flyby_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_flyby_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_flyby_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_inwarp.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_inwarp.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_005.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_005.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_start_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_005.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/engine_warp_005.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_005.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_005.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_005.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_005.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_007.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/impact_projectile_metal_007.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_blaster_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_blaster_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_blaster_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_blaster_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_blaster_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_blaster_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_blaster_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_blaster_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_energy_beam_003_close.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_energy_beam_003_close.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_energy_beam_003_loop.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_energy_beam_003_loop.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_energy_beam_003_open.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_energy_beam_003_open.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_energy_beam_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_energy_beam_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_008.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_flame_008.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_gatling_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_gatling_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_005.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_005.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_007.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_007.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_008.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_008.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_009.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_009.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_010.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_010.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_011.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_laser_011.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_lightning_005_cut.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_lightning_005_cut.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_lightning_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_lightning_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_lightning_008_cut.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_lightning_008_cut.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_mortar_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_mortar_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_mortar_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_mortar_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_mortar_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_mortar_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_railgun_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_railgun_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_railgun_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_railgun_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_railgun_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_railgun_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_railgun_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_railgun_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_shotgun_001.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_shotgun_001.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_shotgun_002.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_shotgun_002.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_shotgun_006.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_shotgun_006.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_sniper_003.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_sniper_003.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_sniper_004.wav
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Sounds/weapon_sniper_004.wav.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets.unity.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation/TURRET.controller
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation/TURRET.controller.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation/TURRET_BARREL.anim
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation/TURRET_BARREL.anim.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation/TURRET_BARREL_Idle.anim
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation/TURRET_BARREL_Idle.anim.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation/TURRET_BARREL_Loop.anim
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Animation/TURRET_BARREL_Loop.anim.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Database.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Database/database.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Database/database.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/LightingData.asset
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/LightingData.asset.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Materials.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Materials/TURRET.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Materials/TURRET.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Materials/TURRET_MaskMap.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Materials/TURRET_MaskMap.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Materials/TURRET_Mobile.mat
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Materials/TURRET_Mobile.mat.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Meshes.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Meshes/TURRET.FBX
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Meshes/TURRET.FBX.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Assembled Turrets.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Assembled Turrets.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Electric_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Electric_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Electric_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Electric_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Flack_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Flack_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Flack_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Flack_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Flamer_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Flamer_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Flamer_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Flamer_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Gatling_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Gatling_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Gatling_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Gatling_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Gauss_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Gauss_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Gauss_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Gauss_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_HeavyMissle_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_HeavyMissle_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_HeavyMissle_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_HeavyMissle_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Laser_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Laser_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Laser_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Laser_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_MLRS_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_MLRS_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_MLRS_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_MLRS_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Mortar_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Mortar_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Mortar_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Mortar_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Repeater_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Repeater_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Repeater_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Barrels/TURRET_BARREL_Repeater_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Bases.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Bases/TURRET_BASE_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Bases/TURRET_BASE_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Bases/TURRET_BASE_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Bases/TURRET_BASE_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Ballistic_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Ballistic_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Ballistic_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Ballistic_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Common_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Common_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Common_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Common_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Energy_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Energy_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Energy_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Energy_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Heavy_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Heavy_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Heavy_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Breeches/TURRET_BREECH_Heavy_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/ConstructorBase.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/ConstructorBase.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads/TURRET_HEAD_Double_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads/TURRET_HEAD_Double_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads/TURRET_HEAD_Double_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads/TURRET_HEAD_Double_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads/TURRET_HEAD_Single_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads/TURRET_HEAD_Single_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads/TURRET_HEAD_Single_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Heads/TURRET_HEAD_Single_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts/TURRET_MOUNT_Double_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts/TURRET_MOUNT_Double_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts/TURRET_MOUNT_Double_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts/TURRET_MOUNT_Double_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts/TURRET_MOUNT_Single_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts/TURRET_MOUNT_Single_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts/TURRET_MOUNT_Single_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Mounts/TURRET_MOUNT_Single_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Swivels.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Swivels/TURRET_SWIVEL_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Swivels/TURRET_SWIVEL_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Swivels/TURRET_SWIVEL_Mobile_LOD0.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/Swivels/TURRET_SWIVEL_Mobile_LOD0.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/TURRET_NEW_SKELETON_TEMPLATE.prefab
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Prefabs/TURRET_NEW_SKELETON_TEMPLATE.prefab.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/ReflectionProbe-0.exr
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/ReflectionProbe-0.exr.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/Mobile.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/Mobile/TURRET_Mobile_DiffuseSpec.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/Mobile/TURRET_Mobile_DiffuseSpec.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/Mobile/TURRET_Mobile_Normal_GL.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/Mobile/TURRET_Mobile_Normal_GL.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/TURRET_AlbedoTransparency.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/TURRET_AlbedoTransparency.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/TURRET_MetallicSmoothness.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/TURRET_MetallicSmoothness.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/TURRET_Normal_DX.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/TURRET_Normal_DX.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/TURRET_Normal_GL.png
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Turrets/Textures/TURRET_Normal_GL.png.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/URP_Amplify_Editor_Shaders.unitypackage
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/URP_Amplify_Editor_Shaders.unitypackage.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Warp Jump.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Warp Jump.unity.meta
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Warp Tunnel.unity
+Mini_Shooter/Assets/00. External Assets/FORGE3D/Sci-Fi Effects/Warp Tunnel.unity.meta
