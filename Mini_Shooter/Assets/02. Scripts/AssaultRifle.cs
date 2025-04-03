@@ -4,20 +4,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class AssaultRifle : MonoBehaviour
+public class AssaultRifle : Weapon
 {
-    [Header("GunData")]
-    public GunData data;
-    
     [Header("Visual")]
     public GameObject MuzzleFlash;
     public float muzzleFlashDuration = 0.1f;
     public Transform Ejector;
     
-    public int currentAmmo { get; private set; }
-    public float currentFireRate { get; private set; }
     private float currentMuzzleFlashDuration { get; set; }
-    
     private Camera mainCamera;
 
     private void Start()
@@ -37,7 +31,7 @@ public class AssaultRifle : MonoBehaviour
         }
     }
 
-    public bool Fire()
+    public override bool Fire()
     {
         if (currentFireRate < data.fireRate)
         {

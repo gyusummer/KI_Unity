@@ -28,8 +28,9 @@ public class TestEffects : MonoBehaviour
     }
     private void PrintDamageText(CombatEvent combatEvent)
     {
-        Transform worldTarget = new GameObject().transform;
-        worldTarget.position = combatEvent.HitPosition;
+        // Transform worldTarget = new GameObject().transform;
+        Tweener tweener = ObjectPoolManager.Instance.GetObjectPoolOrNull("Tweener") as Tweener;
+        tweener.transform.position = combatEvent.HitPosition;
         
         Color color = Color.white;
         float howPainful = combatEvent.Receiver.HowPainful(combatEvent.Collider);
@@ -45,11 +46,12 @@ public class TestEffects : MonoBehaviour
                 color = Color.red;
                 break;
         }
-        ShowText($"{combatEvent.Damage}", worldTarget, color);
+        ShowText($"{combatEvent.Damage}", tweener, color);
     }
 
-    private void ShowText(string message, Transform worldTarget, Color color)
+    private void ShowText(string message, Tweener worldTarget, Color color)
     {
+        float duration = 3.0f;
         var poolItem = ObjectPoolManager.Instance.GetObjectPoolOrNull("DamageText");
         var followUI = poolItem as FollowUI;
         if (followUI.IsInitialized == false)
@@ -59,6 +61,8 @@ public class TestEffects : MonoBehaviour
         
         var gameObj = followUI.gameObject;
         gameObj.SetActive(true);
-        followUI.Set(worldTarget, message, color, 3.0f);
+        followUI.Set(worldTarget.transform, message, color, duration);
+        worldTarget.Set(duration);
+        worldTarget.gameObject.SetActive(true);
     }
 }

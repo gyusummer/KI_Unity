@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private static readonly int FIRE = Animator.StringToHash("Fire");
+    private static readonly int SWAP = Animator.StringToHash("Swap");
 
     [Header("Movement Settings")]
     public float walkSpeed = 4f;
@@ -24,9 +25,10 @@ public class PlayerController : MonoBehaviour
     
     [Header("Animator")]
     public Animator animator;
-    
+
     [Header("Gun")]
-    public AssaultRifle currentGun;
+    public Weapon[] weapons = new Weapon[4];
+    public Weapon CurrentWeapon { get; private set; }
     
     private CharacterController controller;
     private Vector3 velocity;
@@ -42,6 +44,20 @@ public class PlayerController : MonoBehaviour
         Cursor.visible = false;
         
         initialCameraRotation = cameraTransform.localRotation;
+
+        for (int i = 0; i < weapons.Length; i++)
+        {
+            if(weapons[i] is not null)
+            {
+                weapons[i].gameObject.SetActive(false);
+            }
+        }
+        
+        animator.ResetTrigger(SWAP);
+        animator.SetTrigger(SWAP);
+
+        CurrentWeapon = weapons[0];
+        CurrentWeapon.gameObject.SetActive(true);
     }
 
     // Update is called once per frame
@@ -56,7 +72,9 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Mouse0))
         {
-            bool successFire = currentGun.Fire();
+            AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
+            if (stateInfo.shortNameHash == SWAP || animator.IsInTransition(0)) return;
+            bool successFire = CurrentWeapon.Fire();
             
             if (successFire)
             {
@@ -64,6 +82,33 @@ public class PlayerController : MonoBehaviour
                 animator.SetTrigger(FIRE);
             }
         }
+
+        if(Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            SwapWeapon(0);
+        }
+        if(Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            SwapWeapon(1);
+        }
+        if(Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            SwapWeapon(2);
+        }
+        if(Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            SwapWeapon(3);
+        }
+    }
+
+    private void SwapWeapon(int weaponIndex)
+    {
+        if (weapons[weaponIndex] is null || CurrentWeapon == weapons[weaponIndex]) return;
+        CurrentWeapon.gameObject.SetActive(false);
+        animator.ResetTrigger(SWAP);
+        animator.SetTrigger(SWAP);
+        CurrentWeapon = weapons[weaponIndex];
+        CurrentWeapon.gameObject.SetActive(true);
     }
 
     private void UpdateMovement()

@@ -14,7 +14,6 @@ public class FollowUI : MonoBehaviour, IObjectPoolItem
     private Transform target;
     private TMP_Text text;
     private float duration;
-    private float aliveTime;
     
     private RectTransform rectTransform;
     public bool IsInitialized = false;
@@ -27,18 +26,16 @@ public class FollowUI : MonoBehaviour, IObjectPoolItem
 
     private void Update()
     {
-        if (aliveTime > duration)
+        if (duration < 0)
         {
             ReturnToPool();
             return;
         }
-        aliveTime += Time.deltaTime;
+        duration -= Time.deltaTime;
         
         Vector3 screenPos = camera.WorldToScreenPoint(target.position);
         RectTransformUtility.ScreenPointToLocalPointInRectangle(canvas.transform as RectTransform, screenPos, camera, out Vector2 localPos);
         rectTransform.anchoredPosition = localPos;
-
-        rectTransform.anchoredPosition += Vector2.up * (aliveTime * 200f);
     }
 
     public void Initialize(Camera camera, Canvas canvas)
@@ -47,11 +44,10 @@ public class FollowUI : MonoBehaviour, IObjectPoolItem
         this.canvas = canvas;
     }
     
-    public void Set(Transform target, string content, Color color, float duration)
+    public void Set(Transform worldTarget, string content, Color color, float duration)
     {
-        aliveTime = 0;
         text.color = color;
-        this.target = target;
+        this.target = worldTarget;
         text.text = content;
         this.duration = duration;
     }
