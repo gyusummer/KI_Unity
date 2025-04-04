@@ -11,4 +11,5 @@ public abstract class Weapon : MonoBehaviour
     public float currentFireRate { get; protected set; }
 
     public abstract bool Fire();
+    public abstract void Reload();
 }

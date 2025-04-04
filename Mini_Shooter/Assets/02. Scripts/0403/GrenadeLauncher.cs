@@ -47,4 +47,9 @@ public class GrenadeLauncher : Weapon
 
         return true;
     }
+
+    public override void Reload()
+    {
+        
+    }
 }

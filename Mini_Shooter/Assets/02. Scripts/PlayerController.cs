@@ -1,9 +1,11 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public event Action OnWeaponUpdated;
     private static readonly int FIRE = Animator.StringToHash("Fire");
     private static readonly int SWAP = Animator.StringToHash("Swap");
 
@@ -80,35 +82,38 @@ public class PlayerController : MonoBehaviour
             {
                 animator.ResetTrigger(FIRE);
                 animator.SetTrigger(FIRE);
+                OnWeaponUpdated?.Invoke();
             }
         }
 
         if(Input.GetKeyDown(KeyCode.Alpha1))
         {
-            SwapWeapon(0);
+            SwapWeapon(weapons[0]);
         }
         if(Input.GetKeyDown(KeyCode.Alpha2))
         {
-            SwapWeapon(1);
+            SwapWeapon(weapons[1]);
         }
         if(Input.GetKeyDown(KeyCode.Alpha3))
         {
-            SwapWeapon(2);
+            SwapWeapon(weapons[2]);
         }
         if(Input.GetKeyDown(KeyCode.Alpha4))
         {
-            SwapWeapon(3);
+            SwapWeapon(weapons[3]);
         }
     }
 
-    private void SwapWeapon(int weaponIndex)
+    private void SwapWeapon(Weapon newWeapon)
     {
-        if (weapons[weaponIndex] is null || CurrentWeapon == weapons[weaponIndex]) return;
+        if (newWeapon == CurrentWeapon) return;
         CurrentWeapon.gameObject.SetActive(false);
         animator.ResetTrigger(SWAP);
         animator.SetTrigger(SWAP);
-        CurrentWeapon = weapons[weaponIndex];
+        CurrentWeapon = newWeapon;
         CurrentWeapon.gameObject.SetActive(true);
+        
+        OnWeaponUpdated?.Invoke();
     }
 
     private void UpdateMovement()

@@ -32,6 +32,12 @@ public class FollowUI : MonoBehaviour, IObjectPoolItem
             return;
         }
         duration -= Time.deltaTime;
+
+        Vector3 viewPos = camera.WorldToViewportPoint(target.position);
+        if (viewPos.z <= 0)
+        {
+            return;
+        }
         
         Vector3 screenPos = camera.WorldToScreenPoint(target.position);
         RectTransformUtility.ScreenPointToLocalPointInRectangle(canvas.transform as RectTransform, screenPos, camera, out Vector2 localPos);

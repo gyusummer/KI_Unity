@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Shotgun : Weapon
 {
-    public float Spread = 0.5f;
+    public float Spread = 0.3f;
     public int pellets = 10;
 
     // random degree(axis forward)
@@ -78,5 +78,10 @@ public class Shotgun : Weapon
         }
         
         return true;
+    }
+
+    public override void Reload()
+    {
+        
     }
 }

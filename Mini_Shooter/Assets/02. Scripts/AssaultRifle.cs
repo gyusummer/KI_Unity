@@ -67,4 +67,10 @@ public class AssaultRifle : Weapon
         
         return true;
     }
+
+    public override void Reload()
+    {
+        // wait data.reloadTime //
+        currentAmmo = data.totalAmmo;
+    }
 }
