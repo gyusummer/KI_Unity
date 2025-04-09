@@ -16,9 +16,9 @@ public class LocalPlayer : Player, IDamageAble
         
         public Action<int, int, int> OnTakenDamage; 
     }
-    
-    public Collider MainCollider { get; }
-    public GameObject GameObject { get; }
+
+    public Collider MainCollider => characterController;
+    public GameObject GameObject => gameObject;
     public Weapon CurrentWeapon { get; set; }
     public PlayerStat Stat { get; private set; }
     
@@ -27,6 +27,7 @@ public class LocalPlayer : Player, IDamageAble
     [SerializeField] private Transform weaponParent;
     [SerializeField] private WeaponController weaponController;
     [SerializeField] private AnimStateEventListener characterAnimatorListener;
+    [SerializeField] private CharacterController characterController;
     
     private void Awake()
     {

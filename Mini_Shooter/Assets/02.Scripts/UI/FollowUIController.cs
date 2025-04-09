@@ -45,11 +45,8 @@ public class FollowUIController : MonoBehaviour
             case BossMonster.Parts.Head:
                 reVal = Color.red;
                 break;
-            case BossMonster.Parts.LeftArm:
-            case BossMonster.Parts.RightArm:
-                reVal = Color.white;
-                break;
             default:
+                reVal = Color.white;
                 break;
         }
         
