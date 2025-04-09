@@ -27,7 +27,15 @@ public class SaveDataContainer : MonoBehaviour
         GC.Collect();
     }
 
-    private void OnApplicationQuit()
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Keypad0))
+        {
+            Save();
+        }
+    }
+
+    private void Save()
     {
         StreamWriter writer = new StreamWriter(savePath);
         for (int i = 0; i < SaveObjects.Count; i++)
@@ -35,6 +43,8 @@ public class SaveDataContainer : MonoBehaviour
             writer.WriteLine(SaveObjects[i].SaveData);
         }
         writer.Close();
+        
+        Debug.Log("SAVED");
     }
 
     private void LoadSaveData()

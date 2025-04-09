@@ -53,8 +53,8 @@ public class AABBVisualizer : MonoBehaviour
         );
 
         reVal = new Bounds(center, worldExtents * 2f);
-        
-        
+
+        Debug.Log($"{transform.eulerAngles} ::: {worldExtents.x * 2f * worldExtents.y * 2f * worldExtents.z * 2f}");
         
         return reVal;
     }
