@@ -1,0 +1,3 @@
+Key	Name	Description	Category	Parameter
+Place001	블록 배치하기	3개의 블록을 배치하세요	PlaceBlock	0_3
+Remove001	블록 제거하기	3개의 블록을 제거하세요	RemoveBlock	0_3

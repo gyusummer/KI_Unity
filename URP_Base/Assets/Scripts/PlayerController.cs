@@ -7,9 +7,6 @@ using Random = UnityEngine.Random;
 
 public class PlayerController : MonoBehaviour
 {
-    [Header("Prefab")]
-    public GameObject CubePrefab;
-    
     [Header("Movement Settings")]
     public float walkSpeed = 4f;
     public float runSpeed = 7f;
@@ -89,15 +86,7 @@ public class PlayerController : MonoBehaviour
 
     private void UpdateInput()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            if (Physics.Raycast(ray, out RaycastHit hit, groundCheckDistance, groundMask))
-            {
-                Vector3 randEuler = new Vector3(Random.Range(0, 360), Random.Range(0, 360), Random.Range(0, 360));
-                Instantiate(CubePrefab, hit.point, Quaternion.Euler(randEuler));
-            }
-        }
+        
     }
 
     private bool IsGroundedBySpherecast()
